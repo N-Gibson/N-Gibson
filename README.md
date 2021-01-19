@@ -1,4 +1,5 @@
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/49107377/105103616-1b8c1600-5a6e-11eb-8e7f-842cc88aedcc.png" /></div>
+![custom_nameplate_n-gibson](https://user-images.githubusercontent.com/49107377/105103616-1b8c1600-5a6e-11eb-8e7f-842cc88aedcc.png)
+
 ---
 
 ## Hi there, I'm Noah 👋
@@ -17,3 +18,9 @@
   - 👯 I’m open to collaboration.
   - 💬 Ask me about anything outdoor related, it's my favorite hobby! 
   - Currently open for work, reach out with any questions. 
+
+---
+
+### Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=N-Gibson&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
