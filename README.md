@@ -16,6 +16,8 @@ I am a full stack developer with experience in JavaScript, React.js, Node.js and
 
 ---
 
+## About Me
+
   - 🔭 I’m currently working on an app for [Timberline Incorperated](https://github.com/N-Gibson/Timberline), revamping design and functionality.
   - 👯 I’m open to collaboration.
   - 💬 Ask me about anything outdoor related, it's my favorite hobby! 
