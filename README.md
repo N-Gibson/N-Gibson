@@ -9,9 +9,10 @@ I am a full stack developer with experience in JavaScript, React.js, Node.js and
 ---
 
 ## 📫 Reach me on: 
-  - [LinkedIn](https://www.linkedin.com/in/n-gibson/) 
-  - [Email](ngibson.dev@gmail.com)
-  - [Resume](https://github.com/N-Gibson/Timberline/files/5839135/NGibson-Resume.pdf)
+
+  - [![Linkedin Badge](https://img.shields.io/badge/-bradybridges-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n-gibson/)](https://www.linkedin.com/in/n-gibson/)
+  - [![Gmail Badge](https://img.shields.io/badge/-bradyjbridges-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ngibson.dev@gmail.com)](mailto:ngibson.dev@gmail.com)
+  - [![Resume Badge](https://img.shields.io/badge/-Resume-black?style=flat&logo=File&logoColor=white&link=https://github.com/N-Gibson/Timberline/files/5839135/NGibson-Resume.pdf)](https://github.com/N-Gibson/Timberline/files/5839135/NGibson-Resume.pdf)
 
 ---
 
