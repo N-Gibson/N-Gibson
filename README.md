@@ -1,4 +1,4 @@
-![custom_nameplate_n-gibson](https://user-images.githubusercontent.com/49107377/105103616-1b8c1600-5a6e-11eb-8e7f-842cc88aedcc.png)
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/49107377/105103616-1b8c1600-5a6e-11eb-8e7f-842cc88aedcc.png" /></div>
 ---
 
 ## Hi there, I'm Noah 👋
