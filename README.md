@@ -3,7 +3,7 @@
 
 ## Hi there, I'm Noah 👋
 
-I am a full stack developer with experience in JavaScript, React.js, Node.js and more! As a tech enthusiast, my journey began early in life as a timkerer of toys, tools and electronics. This childhood passion grew and evolved into a job in construction then IT ans software development. Attention to detail is a core value of mine when building anything from a React app to a retaining wall. My passions exist in the natural world and I hope to use the tech platform to help preserve the natural beauty around us. Through tech and tinkering we can make the world a better place!
+### I am a full stack developer with experience in JavaScript, React.js, Node.js and more! As a tech enthusiast, my journey began early in life as a timkerer of toys, tools and electronics. This childhood passion grew and evolved into a job in construction then IT ans software development. Attention to detail is a core value of mine when building anything from a React app to a retaining wall. My passions exist in the natural world and I hope to use the tech platform to help preserve the natural beauty around us. Through tech and tinkering we can make the world a better place!
 ---
 
 📫 Reach me on: 
